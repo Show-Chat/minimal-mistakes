@@ -159,6 +159,7 @@ include:
   - _includes
   - _layouts
   - _sass
+  - /assets
   
 exclude:
   - "*.sublime-project"
