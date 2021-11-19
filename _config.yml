@@ -156,6 +156,10 @@ include:
   - _pages
   - /docs
   - _data
+  - _includes
+  - _layouts
+  - _sass
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
