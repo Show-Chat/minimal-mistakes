@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ro-RO"
+title                    : "ShowChat"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : Romania
+name                     : "Show Chat"
+description              : "Comunitatea ShowChat Romania"
 url                      : "https://show-chat.github.io"
 baseurl                  : # "/minimal-mistakes"
 repository               : "show-chat/minimal-mistakes"
@@ -102,8 +102,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "ShowChat"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
@@ -132,10 +132,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/showchat"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://facebook.com/showchat"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
