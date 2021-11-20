@@ -19,13 +19,13 @@ locale                   : "ro-RO"
 title                    : "ShowChat"
 title_separator          : "-"
 subtitle                 : Romania
-name                     : "Show Chat"
+name                     : "ShowChat"
 description              : "Comunitatea ShowChat Romania"
 url                      : "https://show-chat.github.io"
-baseurl                  : # "/minimal-mistakes"
+baseurl                  : "/minimal-mistakes"
 repository               : "show-chat/minimal-mistakes"
 teaser                   : "/docs/assets/images/500x300.png"
-logo                     : # "/assets/images/88x88.png"
+logo                     : "/docs/assets/images/3953273590_704e3899d5_m.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "ShowChat"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/docs/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
@@ -113,13 +113,13 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://showchat.tk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/showchat"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/showchat"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
